@@ -1,0 +1,8 @@
+Flask
+flask_sqlalchemy
+requests
+stripe
+python-dotenv
+werkzeug
+jwt
+gunicorn
